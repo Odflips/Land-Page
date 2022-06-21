@@ -153,25 +153,29 @@ button:active{
 
     .conteudo-principal{
         padding: 30px;
-        left: 20px;
+        text-align: center;
+        
     }
     .cont-tit{
         width: 200px ;
-        font-size:40px ;
-        padding-left: 20px;
+        font-size:35px ;
+
+        
         
         
     }
     .cont-sub{
         width: 200px;
         font-size:large;
-        padding-left: 20px;
+        
         
     }
 
     .img-section{
-        height: 200px;
-        width: 160px;
+        height: 100px;
+        
+        position: absolute;
+        top: 370px;
 
     }
 
@@ -183,7 +187,8 @@ button:active{
     }
     .boton{
         position: relative;
-        left: 20px;
+        left: 10px;
+        
 
     }
 }
