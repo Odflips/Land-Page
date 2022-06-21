@@ -150,14 +150,22 @@ button:active{
 }
 
 @media screen and (max-width:850px) {
+
+    .conteudo-principal{
+        padding: 30px;
+        left: 20px;
+    }
     .cont-tit{
         width: 200px ;
+        font-size:40px ;
+        padding-left: 20px;
         
         
     }
     .cont-sub{
         width: 200px;
         font-size:large;
+        padding-left: 20px;
         
     }
 
@@ -169,5 +177,13 @@ button:active{
 
     p{
         font-size: 15px;
+    }
+    .conteudo-secundario{
+        padding: 30px;
+    }
+    .boton{
+        position: relative;
+        left: 20px;
+
     }
 }
