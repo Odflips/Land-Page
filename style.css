@@ -180,10 +180,10 @@ button:active{
 
     }
 
-    p{
-        font-size: 15px;
-    }
+    
     .conteudo-secundario{
+        text-align: center;
+        
         padding: 30px;
     }
     .boton{
